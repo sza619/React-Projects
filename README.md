@@ -1,5 +1,5 @@
 # React-Projects
-Projects built using React and run on Vite server.
+Projects built using React and run on Vite server
 
 ## Local setup:
  1. Open Command Prompt and run *node -v* to check the version of Nodejs installed.<br>If it's not install it from [NodeJS](https://nodejs.org/en).<br>Else check if its the latest version.
