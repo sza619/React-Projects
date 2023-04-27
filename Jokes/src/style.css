@@ -1,0 +1,19 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Karla", sans-serif;
+  margin: 0;
+  background: whitesmoke;
+}
+
+nav{
+  box-shadow: 0px 2.98256px 7.4564px rgba(0, 0, 0, 0.1);
+  padding: 20px 30px;
+  background: greenyellow;
+}
+
+nav > h2{margin: 0;}
+
+.content{margin-left: 5vw;}
