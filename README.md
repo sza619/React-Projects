@@ -9,5 +9,6 @@ Projects built using React and run on Vite server
  5. Run *npm run dev* and view the project in the local server created by Vite.
  
  ## Project Details:
- * Jokes: Simple UI with jokes rendered using *props*.
- * Project-1: Simple UI showcasing some facts about React.
+* Jokes: Simple UI with jokes rendered using *props*.
+* Project-1: Simple UI showcasing some facts about React.
+* Project-2: Clone of Airbnb UI.
