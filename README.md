@@ -10,5 +10,5 @@ Projects built using React and run on Vite server
  
  ## Project Details:
 * Jokes: Simple UI with jokes rendered using *props*.
-* Project-1: Simple UI showcasing some facts about React.
-* Project-2: Clone of Airbnb UI.
+* Project-1: [Simple UI](https://www.figma.com/file/xA1rJVQOorqMW6xjGdBLcI/ReactFacts?type=design&node-id=0-1&t=4Ea5gQMDqijszdEs-0) showcasing some facts about React.
+* Project-2: Clone of [Airbnb UI](https://www.figma.com/file/4YjrygFEXOcDp9AAnVFv7o/Airbnb-Experiences?type=design&node-id=0-1&t=UsZ1wa5leQlLGA3p-0).
